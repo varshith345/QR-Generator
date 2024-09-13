@@ -4,7 +4,7 @@ A simple **QR Code Generator** built using **HTML**, **CSS**, and **JavaScript**
 
 ## 🚀 Live Demo
 
-[Click here to view the live demo](https://varshith345.github.io/QR-Generator/) (Replace `#` with your live link URL)
+[Click here to view the live demo](https://varshith345.github.io/QR-Generator/) 
 
 ## 📸 Screenshots
 
